@@ -1,0 +1,4 @@
+export const START_BLOCK = 11498340;
+
+export const INV = "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68";
+export const GOVERNANCE = "0x35d9f4953748b318f18c30634bA299b237eeDfff";

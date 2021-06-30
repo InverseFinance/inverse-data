@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@jobs/*": ["jobs/*"],
+      "@lib/*": ["lib/*"],
+      "@config/*": ["config/*"]
+    }
+  }
+}
